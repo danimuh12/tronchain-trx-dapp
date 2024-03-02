@@ -1,0 +1,235 @@
+
+{
+    "navbar": {
+        "navTitle": "Tron Trx", 
+        "navDesc": "King of all contracts",
+        "navLinks": ["ABOUT US", "HOW IT WORKS", "RESOURCES", "FAQs", "DASHBOARD"]
+    },
+    "topSection": {
+        "heading": "King of all Contracts",
+        "title": "100% Decentralized",
+        "desc": "Tron Trx is the perfect combination of Digital Technology, High Security and Community Program",
+        "buttons": ["contract statistics", "whitepaper"]
+    },
+    "contractStats": {
+        "stats": [
+            {"title": "0.00 TRX", "desc": "Net Contract Balance"},
+            {"title": "0.00 TRX", "desc": "Total Deposited"},
+            {"title": "0.00 TRX", "desc": "Total Withdrawn"},
+            {"title": "0.00 TRX", "desc": "Project insurance"}
+        ]
+    },
+    "whyChoose": {
+        "mainHeading": ["Why Choose ", "Tron Trx ", "Platform?"],
+        "sections": [
+            {
+                "title": "Decentralized",
+                "desc": "There is no 3rd Party Management managing your funds . Neither the Affiliates or the Development team have access to the project smart contact once it is deployed on the blockchain."
+            },
+            {
+                "title": "Transparency",
+                "desc": "All codes used to develop the project are visible for community members to look at. Also, all transactions are recorded on the Blockchain's ledger which is accessible to everyone."
+            },
+            {
+                "title": "Project Insurance",
+                "desc": "Tron Trx's smart contract has a built in Project Insurance mechanism to protect the interests of the community."
+            },
+            {
+                "title": "Longevity",
+                "desc": "All Anti Whale and Anti Multi Id measures along with APS and Project Insurance will ensure Longevity of the project so that everybody can reap the benefits."
+            },
+            {
+                "title": "Automated Perpetual System (APS)",
+                "desc": "Tron Trx's smart contract has a built in APS which automatically sends all rewards to the community members thereby eliminating any scope of human intervention."
+            },
+            {
+                "title": "Immutability",
+                "desc": "Once the project code is verified and deployed, it's the law. This means no changes or amendments can be done. Truly safe and secure."
+            }
+        ]
+    },
+    "howInvest": {
+        "mainHeading": ["How to invest in ", "Trontrx?"],
+        "rightSections": [
+            {
+                "title": "Download wallet app",
+                "desc": "Download/Install TronLink based wallet on your mobile or web browser or Klever Wallet for mobile devices."
+            },
+            {
+                "title": "Get Tron (TRX)",
+                "desc": "You can easily acquire TRX from the most popular platforms. After purchasing TRX, you can transfer it to your personal wallet, and then transfer it to Tron Trx smart-contract address."
+            },
+            {
+                "title": "Deposit TRX",
+                "desc": "Head towards contribution"
+            },
+            {
+                "title": "Start Earning",
+                "desc": "Congratulations. You have joined the unique world of Tron Trx. You can find all your personal information on Wallet Statistics page and you can withdraw your money from this screen whenever you want."
+            }
+        ]
+    },
+    "incomeSources": {
+        "mainHeading": ["three main sources of ", "income"],
+        "cards": [
+            {
+                "title": "daily roi",
+                "desc": "There is no 3rd Party Management managing your funds . Neither the Affiliates or the Development team have access to the project smart contact once it is deployed on the blockchain"
+            },
+            {
+                "title": "matching income",
+                "desc": "Additional matching level income (As per your current level) ranging from 30%-90% of your team's daily ROI income"
+            },
+            {
+                "title": "referral income",
+                "desc": "TRON TRX's smart contract has a built in Project Insurance mechanism to protect the interests of the community"
+            }
+        ]
+    },
+    "matchingIncome": {
+        "mainHeading": ["6 LEVEL ", "MATCHING INCOME ", "AFFILIATE PROGRAM"],
+        "paragraphs": [
+            "Requirements of Direct Referrals must be met along with Total Team Deposits Volume in order to move to next level.",
+            "All volume is calculated on your Total Team's Deposits Volume.",
+            "Matching Income is automatically calculated by APS on a daily basis."
+        ],
+        "levels": [
+            {"percentage": "30%", "level": "level 1"},
+            {"percentage": "20%", "level": "level 2"},
+            {"percentage": "15%", "level": "level 3"},
+            {"percentage": "10%", "level": "level 4"},
+            {"percentage": "10%", "level": "level 5"},
+            {"percentage": "5%", "level": "level 6"}
+        ]
+    },
+    "faqs": {
+        "mainHeading": "Frequently Asked Questions",
+        "tabs": [
+            {
+                "title": "General",
+                "questionAnswers": [
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    }
+                ]
+            },
+            {
+                "title": "Pre ICO",
+                "questionAnswers": [
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    }
+                ]
+            },
+            {
+                "title": "Token",
+                "questionAnswers": [
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    }
+                ]
+            },
+            {
+                "title": "Client",
+                "questionAnswers": [
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    }
+                ]
+            },
+            {
+                "title": "Legal",
+                "questionAnswers": [
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    },
+                    {
+                        "question": "When would I be able to see my token balance?",
+                        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus tincidunt ultrices. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique. Ut quis blandit dolor. Ut laoreet sagittis arcu eu tristique."
+                    }
+                ]
+            }   
+        ]   
+    }
+}
